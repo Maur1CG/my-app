@@ -1,8 +1,8 @@
 # Perfil 3 - Módulo 5
 
-- **Estudiante:** Samuel García
-- **Carnet:** XXXXXX
-- **Sección y grupo:** X - X
+- **Estudiante:** Mauricio Castro
+- **Carnet:** 20240746
+- **Sección y grupo:** 2 - B
 
 ## Enlaces
 - **Video demostrativo:** PEGAR_ENLACE_PUBLICO
